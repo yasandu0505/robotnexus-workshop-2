@@ -60,3 +60,6 @@ Once installed, you can select your board for the workshop:
 
 ## 🚀 Quick Start  
 To test if your setup is working, open the Blink sketch from the examples/ folder and try uploading it to your board!
+
+## Troubleshooting
+If met with a Drivers error, download and install the latest CH340 drivers. [Download Drivers](https://www.wch-ic.com/downloads/CH341SER_ZIP.html)
