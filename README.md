@@ -40,7 +40,7 @@ Once installed, you can select your board for the workshop:
 
 - Go to Tools > Board > esp32 > ESP32 Dev Module.
 
-📅 Workshop Agenda
+## 📅 Workshop Agenda
 - Introduction to ESP32: Pinout, Logic Levels (3.3V), and Features.
 
 - Digital I/O: Using digitalWrite, digitalRead, and Internal Pull-ups.
@@ -58,5 +58,5 @@ Once installed, you can select your board for the workshop:
 
 - Drivers: Some Windows/Mac users may need the CP210x or CH340 USB-to-UART bridge drivers. If your board isn't detected, please check the drivers/ folder in this repo.
 
-🚀 Quick Start
+## 🚀 Quick Start  
 To test if your setup is working, open the Blink sketch from the examples/ folder and try uploading it to your board!
