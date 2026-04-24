@@ -53,7 +53,7 @@ Once installed, you can select your board for the workshop:
 
 - Wireless: Implementing Bluetooth Classic Serial for smartphone interaction.
 
-⚠️ Important Safety Note
+## ⚠️ Important Safety Note
 - Voltage: The ESP32 operates at 3.3V. Connecting 5V directly to any GPIO pin will likely damage the board.
 
 - Drivers: Some Windows/Mac users may need the CP210x or CH340 USB-to-UART bridge drivers. If your board isn't detected, please check the drivers/ folder in this repo.
