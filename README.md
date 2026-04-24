@@ -1,5 +1,5 @@
-# ESP32 Basics & Bluetooth Communication Workshop
-Welcome to the ESP32 Arduino Programming Workshop! This repository contains the sample code, circuit diagrams, and documentation required for our hands-on session.
+# RobotNexus 3 - Day 2
+Welcome to RobotNexus 3! This repository contains the sample code, circuit diagrams, and documentation required for our hands-on session.
 
 This workshop is designed to take you from the fundamentals of Digital and Analog I/O to building wireless applications using the ESP32’s built-in Bluetooth capabilities.
 
